@@ -10,4 +10,6 @@ If it says it is damaged or broken, do: xattr -r -d com.apple.quarantine (path_t
 
 Once you run the app, use "saysam -help" for the info on how to use it.
 
+Maximum output length: 4 hours
+
 P.S. It requires wifi to download the SAM program.

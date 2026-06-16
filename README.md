@@ -8,7 +8,7 @@ On newer MacOS, Gatekeeper will try to block it. Most of the time you just need 
 
 If it still doesn't allow you to open it, download fix.sh and run: bash (path to fix.sh)
 
-You need an Intel Mac, Silicon doesn't work.
+You need an Intel Mac, Silicon doesn't work. (You'd need to bypass MacOS to run it, and I don't know how to do that :P)
 
 Maximum output length: 4 hours
 

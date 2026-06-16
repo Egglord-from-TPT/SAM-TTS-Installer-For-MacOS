@@ -8,6 +8,8 @@ On newer MacOS, Gatekeeper will try to block it. Most of the time you just need 
 
 If it still doesn't allow you to open it, download fix.sh and run: bash (path to fix.sh)
 
+You need an Intel Mac, Silicon doesn't work.
+
 Maximum output length: 4 hours
 
 P.S. It requires wifi to download the SAM program.
